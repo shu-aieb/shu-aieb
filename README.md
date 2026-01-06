@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20am%20[YOUR%20NAME]&descAlignY=55&descAlign=50" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=print(%22Hello%20World%22);&fontSize=40&fontFace=Source%20Code%20Pro&animation=fadeIn&fontAlignY=38&desc=String%20myName%20=%20%22Shu%20Aieb%20Rahman%20Iram%22;&descAlignY=60&descAlign=50&descSize=23" width="100%"/>
   
   <br>
 
+ <!--
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -14,6 +15,28 @@
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  -->
+
+
+<div align="center">
+  <!-- LINKEDIN -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com/YOUR-INSTA-USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
+  </a>
+  &nbsp;
+  <!-- GMAIL -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+  </a>
+</div>
+
+  
+  
 
 </div>
 
@@ -41,7 +64,7 @@ I don't just write code; I craft digital experiences. I am constantly exploring 
 
 | Core | Frameworks | Tools & Backend |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=dart,kotlin,java" width="150"/> | <img src="https://skillicons.dev/icons?i=flutter,android" width="100"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" width="200"/> |
+| <img src="https://skillicons.dev/icons?i=dart,kotlin,java" width="150"/> | <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="100"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" width="200"/> |
 
 </div>
 
