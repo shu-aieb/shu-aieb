@@ -20,20 +20,27 @@
 
 <div align="center">
   <!-- LINKEDIN -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/shu-aieb/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
   </a>
   &nbsp;
   <!-- INSTAGRAM -->
-  <a href="https://instagram.com/YOUR-INSTA-USERNAME">
+  <a href="https://www.instagram.com/sa_rahman_iram/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
   </a>
   &nbsp;
+
+  <a href="https://x.com/YOUR-X-USERNAME">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/>
+</a>
   <!-- GMAIL -->
+     <!--
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
   </a>
 </div>
+  -->
+
 
   
   
